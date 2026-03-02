@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "rNfsuFQkgb4=",
+  "success": true,
+  "projectFilePath": "C:\\.net app\\estudos\\Using ViewModels in MVVM\\UsingViewModelsinMVVM.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jvjoo\\.nuget\\packages\\materialdesigncolors\\5.3.0\\materialdesigncolors.5.3.0.nupkg.sha512",
+    "C:\\Users\\jvjoo\\.nuget\\packages\\materialdesignthemes\\5.3.0\\materialdesignthemes.5.3.0.nupkg.sha512",
+    "C:\\Users\\jvjoo\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.77\\microsoft.xaml.behaviors.wpf.1.1.77.nupkg.sha512"
+  ],
+  "logs": []
+}

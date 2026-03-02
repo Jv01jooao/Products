@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\.net app\\estudos\\Using ViewModels in MVVM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07D29C42-02D2-4BF1-B1DA-8170A25020BC}|UsingViewModelsinMVVM.csproj|c:\\.net app\\estudos\\using viewmodels in mvvm\\viewmodel\\mainwindowsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07D29C42-02D2-4BF1-B1DA-8170A25020BC}|UsingViewModelsinMVVM.csproj|solutionrelative:viewmodel\\mainwindowsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07D29C42-02D2-4BF1-B1DA-8170A25020BC}|UsingViewModelsinMVVM.csproj|c:\\.net app\\estudos\\using viewmodels in mvvm\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{07D29C42-02D2-4BF1-B1DA-8170A25020BC}|UsingViewModelsinMVVM.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07D29C42-02D2-4BF1-B1DA-8170A25020BC}|UsingViewModelsinMVVM.csproj|c:\\.net app\\estudos\\using viewmodels in mvvm\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07D29C42-02D2-4BF1-B1DA-8170A25020BC}|UsingViewModelsinMVVM.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07D29C42-02D2-4BF1-B1DA-8170A25020BC}|UsingViewModelsinMVVM.csproj|c:\\.net app\\estudos\\using viewmodels in mvvm\\mvvm\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07D29C42-02D2-4BF1-B1DA-8170A25020BC}|UsingViewModelsinMVVM.csproj|solutionrelative:mvvm\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07D29C42-02D2-4BF1-B1DA-8170A25020BC}|UsingViewModelsinMVVM.csproj|c:\\.net app\\estudos\\using viewmodels in mvvm\\mvvm\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07D29C42-02D2-4BF1-B1DA-8170A25020BC}|UsingViewModelsinMVVM.csproj|solutionrelative:mvvm\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07D29C42-02D2-4BF1-B1DA-8170A25020BC}|UsingViewModelsinMVVM.csproj|c:\\.net app\\estudos\\using viewmodels in mvvm\\model\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07D29C42-02D2-4BF1-B1DA-8170A25020BC}|UsingViewModelsinMVVM.csproj|solutionrelative:model\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 273,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\.net app\\estudos\\Using ViewModels in MVVM\\MVVM\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "MVVM\\RelayCommand.cs",
+              "ToolTip": "C:\\.net app\\estudos\\Using ViewModels in MVVM\\MVVM\\RelayCommand.cs",
+              "RelativeToolTip": "MVVM\\RelayCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T01:04:57.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ViewModelBase.cs",
+              "DocumentMoniker": "C:\\.net app\\estudos\\Using ViewModels in MVVM\\MVVM\\ViewModelBase.cs",
+              "RelativeDocumentMoniker": "MVVM\\ViewModelBase.cs",
+              "ToolTip": "C:\\.net app\\estudos\\Using ViewModels in MVVM\\MVVM\\ViewModelBase.cs",
+              "RelativeToolTip": "MVVM\\ViewModelBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T00:18:57.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindowsViewModel.cs",
+              "DocumentMoniker": "C:\\.net app\\estudos\\Using ViewModels in MVVM\\ViewModel\\MainWindowsViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModel\\MainWindowsViewModel.cs",
+              "ToolTip": "C:\\.net app\\estudos\\Using ViewModels in MVVM\\ViewModel\\MainWindowsViewModel.cs",
+              "RelativeToolTip": "ViewModel\\MainWindowsViewModel.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAA9wDQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T00:02:18.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\.net app\\estudos\\Using ViewModels in MVVM\\Model\\Item.cs",
+              "RelativeDocumentMoniker": "Model\\Item.cs",
+              "ToolTip": "C:\\.net app\\estudos\\Using ViewModels in MVVM\\Model\\Item.cs",
+              "RelativeToolTip": "Model\\Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T23:43:25.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\.net app\\estudos\\Using ViewModels in MVVM\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\.net app\\estudos\\Using ViewModels in MVVM\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-01T02:11:23.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\.net app\\estudos\\Using ViewModels in MVVM\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\.net app\\estudos\\Using ViewModels in MVVM\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T23:30:26.598Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
