@@ -53,7 +53,7 @@ namespace Using_ViewModels_in_MVVM {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/UsingViewModelsinMVVM;V1.0.0.0;component/produtos/mainwindow.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/UsingViewModelsinMVVM;component/produtos/mainwindow.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\Produtos\MainWindow.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

@@ -61,7 +61,7 @@ namespace Example {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/UsingViewModelsinMVVM;component/produtos/app.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/UsingViewModelsinMVVM;V1.0.0.0;component/produtos/app.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\Produtos\App.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

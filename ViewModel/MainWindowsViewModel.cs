@@ -73,29 +73,18 @@ namespace UsingViewModelsinMVVM.ViewModel
             }
 
             string json = File.ReadAllText("dados.json");
-
             var lista = JsonSerializer.Deserialize<ObservableCollection<Item>>(json);
 
-            if (lista == null)
-                lista = new ObservableCollection<Item>();
+            // ESTA É A FORMA CORRETA:
+            // Substitui a lista inteira pelos dados do arquivo
+            Items = lista ?? new ObservableCollection<Item>();
 
-            // colocar na tabela
-            Items = lista;
+            // Avisa a interface que a lista "Items" agora é outra
             OnPropertyChanged(nameof(Items));
 
-            // contar quantos itens existem
-            int quantidade = Items.Count;
-
-            for (int i = 0; i < quantidade; i++)
-            {
-                Items.Add(new Item
-                {
-                    Name = lista[i].Name,
-                    SerialNumber = lista[i].SerialNumber,
-                    Quantity = lista[i].Quantity
-                });
-            }
+            // DELETE TODO O CÓDIGO ABAIXO (o loop for):
+            // for (int i = 0; i < quantidade; i++) { ... } 
         }
-    
+
     }
 }
